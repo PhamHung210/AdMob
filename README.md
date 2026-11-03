@@ -88,3 +88,5 @@ An error after SDK OPENED is not treated as evidence the fullscreen ad has close
 The project source is prepared, with unit tests for cooldown. Native Android compilation, Google ad delivery, and on-device dismissal handling require a machine with network, Android toolchain, and a device/emulator; those cannot be verified by static inspection alone.
 
 Docs: https://docs.page/invertase/react-native-google-mobile-ads/ ; https://docs.expo.dev/build/setup/ ; https://developers.google.com/admob/android/test-ads
+https://drive.google.com/file/d/135Jd1GNVYN4f83xm3AW8s7gVrRwvd8Od/view?usp=drive_link
+
